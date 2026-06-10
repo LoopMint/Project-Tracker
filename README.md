@@ -1,8 +1,8 @@
-# 🎫 Support tickets template
+# 🎫 Projects Tracker template
 
-A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
+A simple Streamlit app showing an internal tool that lets you create, manage, and visualize projects. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://projtracker-template.streamlit.app/)
 
 ### How to run it on your own machine
 
