@@ -7,8 +7,8 @@ import pandas as pd
 import streamlit as st
 
 # Show app title and description.
-st.set_page_config(page_title="Marketing Campaign Tracker", page_icon="📊")
-st.title("📊 Marketing Campaign Tracker")
+st.set_page_config(page_title="Projects & Marketing Campaign Tracker", page_icon="📊")
+st.title("📊 Projects & Marketing Campaign Tracker")
 st.write(
     """
     This app helps you manage marketing campaign projects. Track campaign details, 
